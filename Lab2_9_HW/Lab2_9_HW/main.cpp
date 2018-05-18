@@ -8,4 +8,6 @@ void main() {
 	/* TODO:
 		print your name & student ID 	
 	*/
+	cout << "2017-19450" << endl;
+	cout << "정호성" <<endl;
 }
